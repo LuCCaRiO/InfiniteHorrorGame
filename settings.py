@@ -1,0 +1,4 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+GAME_NAME = 'Infinite Horror Game'
+FPS = 60
